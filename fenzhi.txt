@@ -1,0 +1,6 @@
+git branch
+git branch
+git branch
+git reflog
+git log
+git commit
